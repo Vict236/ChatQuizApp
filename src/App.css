@@ -1,0 +1,17 @@
+header {
+  background-color: #232327;
+  height: 80px;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logoQ {
+  height: 50px;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.hidden {
+  display: none;
+}
